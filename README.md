@@ -37,7 +37,7 @@ A website example that toggles between light and dark mode.
 
 ### Objectives
 
--
+-   Using CSS variables to change between light and dark mode
 
 ### Built With
 
@@ -88,3 +88,6 @@ Diogo Carvalho - Portfolio Comming Soon - [Linkedin](www.linkedin.com/in/diogo-c
 -   [Font Awesome](https://fontawesome.com)
 -   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 -   [Github Pages](https://pages.github.com/)
+-   [Hero Patterns](https://www.heropatterns.com/)
+-   [Google Fonts](https://fonts.google.com/)
+-   [Undraw Illustrations](https://undraw.co/illustrations)
