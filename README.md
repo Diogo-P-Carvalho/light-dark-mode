@@ -37,13 +37,16 @@ A website example that toggles between light and dark mode.
 
 ### Objectives
 
--   Using CSS variables to change between light and dark mode
+-   Using CSS variables and Javascript to change between light and dark mode
+-   Use LocalStorage to save your preference everytime you visit the site
 
 ### Built With
 
 -   HTML5
 -   CSS3
+-   CSS Variables
 -   Javascript
+-   LocalStorage
 
 <!-- GETTING STARTED -->
 
@@ -91,3 +94,5 @@ Diogo Carvalho - Portfolio Comming Soon - [Linkedin](www.linkedin.com/in/diogo-c
 -   [Hero Patterns](https://www.heropatterns.com/)
 -   [Google Fonts](https://fonts.google.com/)
 -   [Undraw Illustrations](https://undraw.co/illustrations)
+-   [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+-   [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
